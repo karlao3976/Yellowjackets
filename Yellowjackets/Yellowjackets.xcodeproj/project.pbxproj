@@ -13,6 +13,8 @@
 		AB08E62424535B8F002AAB08 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB08E62224535B8F002AAB08 /* Main.storyboard */; };
 		AB08E62624535B90002AAB08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB08E62524535B90002AAB08 /* Assets.xcassets */; };
 		AB08E62924535B90002AAB08 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB08E62724535B90002AAB08 /* LaunchScreen.storyboard */; };
+		AB08E63224537AD4002AAB08 /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB08E63024537AD4002AAB08 /* PostTableViewCell.swift */; };
+		AB08E63324537AD4002AAB08 /* PostTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB08E63124537AD4002AAB08 /* PostTableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		AB08E62524535B90002AAB08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB08E62824535B90002AAB08 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB08E62A24535B90002AAB08 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB08E63024537AD4002AAB08 /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
+		AB08E63124537AD4002AAB08 /* PostTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PostTableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				AB08E62524535B90002AAB08 /* Assets.xcassets */,
 				AB08E62724535B90002AAB08 /* LaunchScreen.storyboard */,
 				AB08E62A24535B90002AAB08 /* Info.plist */,
+				AB08E63024537AD4002AAB08 /* PostTableViewCell.swift */,
+				AB08E63124537AD4002AAB08 /* PostTableViewCell.xib */,
 			);
 			path = Yellowjackets;
 			sourceTree = "<group>";
@@ -128,6 +134,7 @@
 				AB08E62924535B90002AAB08 /* LaunchScreen.storyboard in Resources */,
 				AB08E62624535B90002AAB08 /* Assets.xcassets in Resources */,
 				AB08E62424535B8F002AAB08 /* Main.storyboard in Resources */,
+				AB08E63324537AD4002AAB08 /* PostTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +148,7 @@
 				AB08E62124535B8F002AAB08 /* ViewController.swift in Sources */,
 				AB08E61D24535B8F002AAB08 /* AppDelegate.swift in Sources */,
 				AB08E61F24535B8F002AAB08 /* SceneDelegate.swift in Sources */,
+				AB08E63224537AD4002AAB08 /* PostTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
